@@ -111,7 +111,7 @@ function ContactUs() {
                             </h2>
                             <a href='https://share.google/mvesvRoPwCI6osa49' target="_blank" className="flex items-center mt-2 text-xl">
                                 <MdLocationOn style={{ marginRight: '10px', fontSize: "25px" }} />
-                                <b>Office Address:</b> 128/4, MVPM Spark Co-working Space, Bibwewadi-Kondhawa Rd, Pune - 411037
+                                <b>Office Address:</b> 128/4, MVPM Spark Co-working Space,Near Balewadi High St, Baner, Pune, Maharashtra 411045
                             </a>
                         </div>
                     </div>

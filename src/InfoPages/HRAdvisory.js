@@ -11,19 +11,19 @@ function HRAdvisory() {
     <div className="flex flex-col lg:flex-row justify-between items-start py-4 mt-10">
       <div className="text-black text-xl lg:pl-8 lg:text-left flex-1">
         <h1 className="mt-20 lg:mt-20 text-5xl mb-10 text-center lg:text-left">
-          <b>HRAdvisory</b>
+          <b>HR Advisory</b>
         </h1>
         <div className="mb-10">
           {/* <div className="mb-8 text-3xl text-center lg:text-left">
             Explore Audit
           </div> */}
           <ul className="list-disc pl-6 mb-10 ml-4 lg:ml-10 text-left">
-            <li>Recruiting candidates</li>
-            <li>Hiring the right employees</li>
-            <li>Process payroll</li>
-            <li>Conducting disciplinary actions</li>
-            <li>Updating policies</li>
-            <li>Others</li>
+            <li>Provide strategic HR guidance to build high-performing, compliant, and future-ready functions.</li>
+            <li>Support in workforce planning, policy formulation, performance management, and organizational restructuring.</li>
+            <li>Align people strategy with business goals to drive engagement and sustainable growth.</li>
+            <li>Offer deep industry insights for tailored, effective HR solutions.</li>
+            <li>Serve a diverse range of clients, from startups to large enterprises.</li>
+            <li>Deliver practical, result-oriented solutions that empower organizations.</li>
           </ul>
         </div>
       </div>

@@ -1,95 +1,3 @@
-// import React from 'react';
-// import { AiFillLinkedin } from 'react-icons/ai';
-// import { FaLocationArrow } from 'react-icons/fa';
-// import { MdWhatsapp } from 'react-icons/md';
-// import { Link } from 'react-router-dom';
-
-
-// const FooterArea = () => {
-//   return (
-//     <div className="flex flex-col">
-//       <div className='bg-gray-900 text-white p-3 grid grid-cols-1 lg:grid-cols-2'>
-//         <div className="text-white relative py-8 lg:pl-8 flex justify-center items-center">
-//           <div>
-//             <h1 className="text-2xl" style={{ marginTop: '60px', marginBottom: '20px' }}>
-//               Agarwal Darak & Associates LLP
-//             </h1>
-//             <div>
-//               <h2>
-//                 <a href="mailto:info@adal.com" className="hover:text-blue-500">
-//                   info@adal.com
-//                 </a>
-//               </h2>
-//               <hr className="border-white border-t mt-4 mb-2" />
-//               <div className="flex mt-2 items-center">
-//                 <a href="https://www.linkedin.com/company/agarwal-darak-associates-llp/?originalSubdomain=in" target="_blank">
-//                   <AiFillLinkedin
-//                     className="hover:text-gray-500 mr-4"
-//                     style={{
-//                       fontSize: "30px",
-//                     }}
-//                   />
-//                 </a>
-//                 <a href="https://api.whatsapp.com/send/?phone=917385287426&text=Hello wanted to connect with you." target="_blank">
-//                   <MdWhatsapp
-//                     className="hover:text-gray-500"
-//                     style={{
-//                       fontSize: "30px",
-//                     }}
-//                   />
-//                 </a>
-//               </div>
-//             </div>
-//           </div>
-//         </div>
-//         <div className="text-white relative py-8 lg:pl-4 flex justify-center items-center">
-//           <div style={{ marginRight: '90px' }}>
-//             <h1 className="text-2xl" style={{ marginTop: '60px' }}>
-//               Office Address
-//             </h1>
-//             <div className="hover:text-blue-500">
-//               <div className="flex items-center mt-2">
-//                 <a href="https://g.co/kgs/BzkeZe8" target="_blank">
-//                   <FaLocationArrow className="hover:text-blue-500 mr-2" style={{ fontSize: "25px" }} />
-//                 </a>
-//                 <h2 className="text-xl">
-//                   <a href="https://g.co/kgs/BzkeZe8" target="_blank">: UG 05, Raviraj CRU,</a>
-//                 </h2>
-//               </div>
-//               <div className="flex items-center">
-//                 <h2 className="text-xl">
-//                   <a href="https://g.co/kgs/BzkeZe8" target="_blank">Bibwewadi - Kondhawa Rd.,</a>
-//                 </h2>
-//               </div>
-//               <div className="flex items-center">
-//                 <h2 className="text-xl">
-//                   <a href="https://g.co/kgs/BzkeZe8" target="_blank">Pune - 411037</a>
-//                 </h2>
-//               </div>
-//             </div>
-//           </div>
-//         </div>
-//       </div>
-//       <div className="bg-gray-900 text-white p-3 flex justify-center">
-//         <p className="text-center text-sm">
-//           |&nbsp;© 2023 ADAL&nbsp;|&nbsp;
-//           <Link to="/privacy-policy" className="hover:text-blue-500"
-//           target='_blank'
-//           >Privacy Policy</Link>&nbsp;|&nbsp;
-//           <Link to="/terms-of-use" className="hover:text-blue-500" target='_blank'>Terms of Use</Link>&nbsp;|&nbsp;
-//           {/* <a href="/refund-policy" className="hover:text-blue-500">Refund Policy</a> */}
-//         </p>
-//       </div>
-//       <div className="bg-gray-900 text-white p-3 text-sm flex justify-end text-right">
-//         Design & Developed by<Link to='www.linkedin.com/in/harsh-d-07a873124' target="_blank" className="hover:text-blue-500">&nbsp;Harsh Darak</Link>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default FooterArea;
-
-// src/components/FooterArea.js
 import React from 'react';
 import { AiFillLinkedin } from 'react-icons/ai';
 import { FaLocationArrow } from 'react-icons/fa';
@@ -144,7 +52,7 @@ function FooterArea() {
 </a></h2>
               </div>
               <div className="flex items-center"><h2 className="text-xl"><a href="https://share.google/mvesvRoPwCI6osa49" target="_blank">Space, Near Balewadi High </a></h2></div>
-              <div className="flex items-center"><h2 className="text-xl"><a href="https://share.google/mvesvRoPwCI6osa49" target="_blank">Street,Pune - 411037</a></h2></div>
+              <div className="flex items-center"><h2 className="text-xl"><a href="https://share.google/mvesvRoPwCI6osa49" target="_blank">Street, Baner, Pune - 411037</a></h2></div>
             </div>
           </div>
         </div>

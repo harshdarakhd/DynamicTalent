@@ -1,7 +1,5 @@
 import React from "react";
 import { Card } from "antd";
-import varun from "../Images/VarunD.png";
-import jayesh from "../Images/JayeshA.png";
 import { Link } from "react-router-dom";
 import { AiFillLinkedin } from "react-icons/ai";
 
@@ -19,8 +17,8 @@ const data = [
     // link: "https://www.linkedin.com/in/ca-varun-darak-adal/",
     description: (
       <div
-        className="text-black text-center justify-center text-l relative lg:pl-6 py-8 lg:text-left"
-        style={justifyStyle}
+        className="text-black text-center justify-center text-xl relative lg:pl-6 py-8"
+        //style={justifyStyle}
       >
         <p>Deliver tailored staffing solutions that align with our clients goals. Cultivate long-term relationships with businesses and job seekers.</p>
       </div>
@@ -33,10 +31,10 @@ const data = [
     // link: "https://www.linkedin.com/in/jayesh-agarwal-666758220/",
     description: (
       <div
-        className="text-black text-center justify-center text-l relative lg:pl-6 py-8 lg:text-left"
-        style={justifyStyle}
+        className="text-black text-center justify-center text-xl relative lg:pl-6 py-8"
+        //style={justifyStyle}
       >
-        <p>To be a trusted partner forbusinesses seeking the right talentand a career catalyst for professionals seeking meaningful opportunities.</p>
+        <p>To be a trusted partner for businesses seeking the right talentand a career catalyst for professionals seeking meaningful opportunities.</p>
         </div>
     ),
   },

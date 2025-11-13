@@ -88,3 +88,14 @@
 /* example: a nav-background helper */
 .nav-bg { background-color: var(--nav-bg); color: var(--nav-text); }
 .footer-bg { background-color: var(--footer-bg); color: var(--footer-text); }
+
+:root {
+  --nav-height: 64px;
+}
+
+/* Optional: slightly smaller nav on very small screens */
+@media (max-width: 640px) {
+  :root {
+    --nav-height: 56px;
+  }
+}
