@@ -8,20 +8,17 @@ import Services from "./pages/Services";
 import Careers from "./pages/Careers";
 import { NavLink } from "react-router-dom";
 import ServicesCard from "./components/ServicesCards";
-import DirectandIndirectTaxation from "./InfoPages/DirectandIndirectTaxation";
-import ManagementConsultancy from "./InfoPages/RiskAdvisoryServices";
-import TransactionAdvisory from "./InfoPages/RiskAdvisoryServices";
-import BusinessRegistrationService from "./InfoPages/BusinessRegistration";
-import DirectTaxation from "./InfoPages/DirectTaxation";
+import RPO from "./InfoPages/Recruitment Process Outsourcing";
+import ExecutiveSearch from "./InfoPages/ExecutiveSearch";
 import InternationalTaxation from "./InfoPages/InternationalTaxation";
-import IndirectTaxation from "./InfoPages/IndirectTaxation";
-import BusinessSupportServices from "./InfoPages/BusinessSupport";
+import PermanentRecruitment from "./InfoPages/PermanentRecruitment";
 import RiskAdvisoryServices from "./InfoPages/RiskAdvisoryServices";
 import HRAdvisory from "./InfoPages/HRAdvisory";
 import IncomeTaxReturns from "./InfoPages/IncomeTaxReturns";
 import PrivacyPolicy from "./InfoPages/privacy_policy";
 import TermsofUse from "./InfoPages/terms_of_use";
 import { ThemeProvider } from "./Theme/themeContext";
+import ContractStaffing from "./InfoPages/ContractStaffing";
 
 function App() {
     return (
@@ -37,37 +34,37 @@ function App() {
                     <Route exact path="/contact" element={<Contact />} />
                     <Route exact path="/careers" element={<Careers />} />
                     <Route
-                        path="/services/Direct Tax"
-                        element={<DirectTaxation/>}
+                        path="/services/Executive Search"
+                        element={<ExecutiveSearch/>}
                     />
                     <Route
-                        path="/services/GST"
-                        element={<IndirectTaxation />}
+                        path="/services/Permanent Recruitment"
+                        element={<PermanentRecruitment />}
                     />
                     <Route
                         path="/services/International Tax"
                         element={<InternationalTaxation />}
                     />
                     <Route
-                        path="/services/Business Support"
-                        element={<BusinessSupportServices />}
+                        path="/services/Contract Staffing"
+                        element={<ContractStaffing />}
                     />
                     <Route
                         path="/services/Risk Advisory"
                         element={<RiskAdvisoryServices />}
                     />
                     <Route
-                        path="/services/Business Registration"
-                        element={<BusinessRegistrationService/>}
+                        path="/services/Recruitment Process Outsourcing (RPO)"
+                        element={<RPO/>}
                     />
                     <Route
                         path="/services/HR Advisory"
                         element={<HRAdvisory />}
                     />
-                    <Route
+                    {/* <Route
                         path="/services/Income Tax Returns"
                         element={<IncomeTaxReturns />}
-                    />
+                    /> */}
                     <Route 
                         path ="privacy-policy"
                         element={<PrivacyPolicy />}
