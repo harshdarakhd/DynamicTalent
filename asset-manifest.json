@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DynamicTalent/static/css/main.f0d220bd.css",
+    "main.js": "/DynamicTalent/static/js/main.aabe6403.js",
+    "static/media/IncomeTaxReturn.jpg": "/DynamicTalent/static/media/IncomeTaxReturn.6755cc8229e4cd596061.jpg",
+    "static/media/InternationaTax.jpg": "/DynamicTalent/static/media/InternationaTax.ff134e34e38a3e6e1c31.jpg",
+    "static/media/D1.png": "/DynamicTalent/static/media/D1.32d4cbb8d0c62cdbab91.png",
+    "static/media/M2.png": "/DynamicTalent/static/media/M2.1b72149de24d3d4a7ec4.png",
+    "static/media/D2.png": "/DynamicTalent/static/media/D2.c331516401dc4668bc44.png",
+    "static/media/D3.png": "/DynamicTalent/static/media/D3.20348ff9ed7330c347bd.png",
+    "static/media/M3.png": "/DynamicTalent/static/media/M3.379fd837e3b6fd0e946f.png",
+    "static/media/M1.png": "/DynamicTalent/static/media/M1.c810a09a4afe573d4700.png",
+    "static/media/RiskAdvisory.jpg": "/DynamicTalent/static/media/RiskAdvisory.14b8e7121808c60ab202.jpg",
+    "static/media/contact.png": "/DynamicTalent/static/media/contact.5c83a6f90e1be1fd27cc.png",
+    "static/media/DTA.png": "/DynamicTalent/static/media/DTA.a2b90f6f68b0eff19ae6.png",
+    "static/media/HRServices.jpg": "/DynamicTalent/static/media/HRServices.6dd92bc3ebfa9d587764.jpg",
+    "static/media/ExecutiveSearch.jpg": "/DynamicTalent/static/media/ExecutiveSearch.b8e707791a18de839a7f.jpg",
+    "static/media/RPO.jpg": "/DynamicTalent/static/media/RPO.a37ba3030088d1cb7a54.jpg",
+    "static/media/SocialMedia.jpg": "/DynamicTalent/static/media/SocialMedia.2c953576df2a56fd0faf.jpg",
+    "static/media/Contract.jpg": "/DynamicTalent/static/media/Contract.c397e7c98d02fd9f0cf9.jpg",
+    "static/media/Permanent_.jpg": "/DynamicTalent/static/media/Permanent_.66898784868f6eee9b8e.jpg",
+    "static/media/CA_logo.png": "/DynamicTalent/static/media/CA_logo.c4c26b2d2d2f4cb4577d.png",
+    "static/media/indeed.jpg": "/DynamicTalent/static/media/indeed.e2cd237bb9aac9f24ebf.jpg",
+    "index.html": "/DynamicTalent/index.html",
+    "main.f0d220bd.css.map": "/DynamicTalent/static/css/main.f0d220bd.css.map",
+    "main.aabe6403.js.map": "/DynamicTalent/static/js/main.aabe6403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d220bd.css",
+    "static/js/main.aabe6403.js"
+  ]
+}
