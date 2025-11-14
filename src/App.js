@@ -54,7 +54,7 @@ function App() {
                         element={<RiskAdvisoryServices />}
                     />
                     <Route
-                        path="/services/Recruitment Process Outsourcing (RPO)"
+                        path="/services/Recruitment Process Outsourcing"
                         element={<RPO/>}
                     />
                     <Route
